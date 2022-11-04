@@ -24,6 +24,12 @@ Crea el folder de la build lista para el deployd
 
 ## Configuraciones necesarias
 
+### `npm install`
+
+Para instalar todos los modulos necesarios.
+
+### `env`
+
 Renombrar archivo .env.example a .env
 
 ### `REACT_APP_API=`
